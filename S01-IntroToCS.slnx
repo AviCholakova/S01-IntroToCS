@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P01-CPPexc/P01-CPPexc.vcxproj" Id="433f76f0-8409-4caf-a9c6-e687e91289c6" />
+  <Project Path="P02-PerimeterOfRectangle/P02-PerimeterOfRectangle.vcxproj" Id="23bb255a-df34-4a19-be63-7708d59f9fd7" />
+  <Project Path="P03-FindDifference/P03-FindDifference.vcxproj" Id="eab025dc-322d-483e-bfba-7245a9653d25" />
+  <Project Path="P04-cylinder/P04-cylinder.vcxproj" Id="feb3bfe2-9a9d-4e1d-b9d8-3571bf0ea2b4" />
+  <Project Path="P05-SumOrMultipling/P05-SumOrMultipling.vcxproj" Id="e6367b2e-8b6a-442e-af7c-1612d0d332f6" />
+  <Project Path="P06-NumToMark/P06-NumToMark.vcxproj" Id="5394f06e-36bb-4007-9487-06376ca1ccd3" />
+</Solution>
